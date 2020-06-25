@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gauge_GettingStarted", "Gauge_GettingStarted\Gauge_GettingStarted.csproj", "{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Release|iPhone.Build.0 = Release|iPhone
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{8C554DD4-876D-419F-B1D5-6F4E523D0F1F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
