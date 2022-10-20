@@ -1,6 +1,6 @@
 # SfLinearGauge Getting Started Xamarin.iOS
 
-This repository contains sample for how to get started with [Syncfusion Xamarin.iOS Linear Gauge](https://help.syncfusion.com/xamarin-ios/sflineargauge/getting-started) control. Linear Gauge displays a range of values graphically along the linear scale, which is considered as the linear form of the linear gauge. It measures the values of the scale and it is present in the horizontal, vertical sliding, or meter.
+This repository contains sample to get started with [Syncfusion Xamarin.iOS Linear Gauge](https://help.syncfusion.com/xamarin-ios/sflineargauge/getting-started) control. Linear Gauge displays a range of values graphically along the linear scale, which is considered as the linear form of the linear gauge. It measures the values of the scale and it is present in the horizontal, vertical sliding, or meter.
 
 ## Syncfusion controls
 
