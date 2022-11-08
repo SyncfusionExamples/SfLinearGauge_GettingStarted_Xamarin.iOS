@@ -86,10 +86,10 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
     <Reference Include="Syncfusion.SfGauge.iOS">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfGauge.IOS.18.1.0.53\lib\Xamarin.iOS10\Syncfusion.SfGauge.iOS.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Xamarin.SfGauge.IOS.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.SfGauge.iOS.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.Licensing">
-      <HintPath>..\packages\Syncfusion.Licensing.18.1.0.53\lib\Xamarin.iOS10\Syncfusion.Licensing.dll</HintPath>
+      <HintPath>..\packages\Syncfusion.Licensing.20.3.0.47\lib\Xamarin.iOS10\Syncfusion.Licensing.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
